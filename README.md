@@ -1,2 +1,2 @@
 # register2
-registration form for the hackthon
+registration form for the Hackthon
